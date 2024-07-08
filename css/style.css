@@ -1147,7 +1147,7 @@ a {
 }
 .toggle-checkbox:checked + .toggle-switch::before {
     content: '\f00c';
-    left: 78px;
+    left: 50px;
     color: var(--blue-color);
 }
 .settings-page :disabled {
